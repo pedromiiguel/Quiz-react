@@ -4,6 +4,7 @@ import db from '../db.json';
 
 const GlobalStyle = createGlobalStyle`
 
+
   * {
     box-sizing: border-box;
   }
@@ -14,9 +15,9 @@ const GlobalStyle = createGlobalStyle`
     display: flex;
     flex-direction: column;
 
-    font-family: 'Roboto' sans-serif;
+    font-family: 'Lato',  sans-serif;
 
-    color: ${({theme}) => theme.colors.contrastText}
+    color: ${({ theme }) => theme.colors.contrastText}
   }
 
   html,body {
