@@ -22,7 +22,10 @@
       "answer": 0,
       "alternatives": [
          "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "background: gradient(#e66465, #9198e5);",
+         "background: linear-gradient(#e66465, #9198e5);",
+         "background: gradient(#e66465, #9198e5);",
+         "background: linear-gradient(#e66465, #9198e5);"
       ]
     }
   ],
@@ -33,7 +36,7 @@
     "colors": {
       "primary": "#da9026",
       "secondary": "#131507",
-      "mainBg": "#171B35",
+      "mainBg": "#F8DC3D",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
       "success": "#4CAF50"
